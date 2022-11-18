@@ -11,8 +11,10 @@ themselves.  This chapter explains how to use these tools.
 This chapter is incomplete.  The following resources may be helpful:
 
  - Certora's Devcon 2022 presentation "[Bad Proofs in Formal Verification][talk]"
+ - Certora's EthCC 2022 presentation "[Check the spec][ethcc]"
  - The {ref}`--rule_sanity` documentation
 ```
 
 [talk]: https://www.youtube.com/watch?v=U-4D7tWLNNo "Uri Kirstein on Bad Proofs in Formal Verification"
+[ethcc]: https://www.youtube.com/watch?v=csTe6ub3Jwg&list=PLKtu7wuOMP9XHbjAevkw2nL29YMubqEFj&index=10
 
